@@ -55,3 +55,5 @@ wrapper.append(imgWrapper, h3, p, row, author)
 row.append(eth, ago)
 author.append(authorImg, name)
 name.prepend(sp)
+
+alert('Мен озумдун ишимди 110 деп баалайм')
